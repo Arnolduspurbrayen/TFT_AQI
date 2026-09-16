@@ -1,5 +1,7 @@
 # TFT_AQI
-
+Here is my Thesis Project with my group.
+We used 13 model to predict  the air quality based on data.
+Data Source : https://data.mendeley.com/datasets/md22xmgxgw/3
 TFT_AQI is a project for **monitoring and predicting Air Quality Index (AQI)**.
 
 The application processes air quality data and provides AQI information through an interactive interface built with **Streamlit**.
